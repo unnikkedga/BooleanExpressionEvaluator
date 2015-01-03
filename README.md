@@ -28,7 +28,7 @@ java tk/unnikked/booleanevaluator/BooleanEvaluator
 You can also pipe in a file using `-f` directive
 
 ```
-cat yourfile | java java tk/unnikked/booleanevaluator/BooleanEvaluator -f
+cat yourfile | java tk/unnikked/booleanevaluator/BooleanEvaluator -f
 ```
 
 Here an execution example:
